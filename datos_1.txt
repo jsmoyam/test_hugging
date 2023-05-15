@@ -1,0 +1,19 @@
+¿Qué es la Oficina Virtual?
+Es la dirección electrónica disponible para todos los usuarios que deseen relacionarse con el Banco de España a través de medios electrónicos. La Oficina Virtual y la Sede Electrónica son lo mismo.
+
+¿Qué servicios se prestan?
+Los usuarios disponen de una serie de servicios y trámites susceptibles de ser prestados electrónicamente por el Banco de España. Para cada trámite se dispone de una ficha informativa con las especificaciones técnicas.
+
+¿Qué requisitos técnicos de acceso se necesitan?
+Para acceder a los contenidos de la Oficina Virtual del Banco de España es necesario un navegador y una conexión a Internet. Se aconseja una resolución mínima de pantalla de 1024 x 768 píxeles. No obstante, los tamaños de las fuentes se han definido con unidades relativas para que se pueda ampliar o disminuir el tamaño de la fuente desde las opciones del navegador.
+El desarrollo se ha realizado siguiendo pautas de accesibilidad y usabilidad universales para que todos los ciudadanos, incluidos aquellos con algún tipo de discapacidad y con independencia de su contexto de navegación, puedan acceder en igualdad de condiciones.
+¿Es un entorno seguro para realizar gestiones?  Ocultar información
+La Oficina Virtual utiliza, para la debida identificación y autentificación de su titular y a fin de garantizar comunicaciones seguras con los usuarios, un sistema de firma electrónica basado en un certificado de dispositivo seguro.
+ 
+Además los certificados establecen conexiones seguras entre el navegador del usuario y el sitio web de la Oficina Virtual mediante comunicaciones cifradas.
+ 
+¿Cómo puedo contactar?
+Según el tipo de consulta a realizar:
+
+Cada trámite dispone de un contacto específico para la resolución de consultas relacionadas con el proceso consultado.
+El buzón genérico facilitado en la Oficina Virtual está habilitado para la resolución de dudas de carácter general relacionadas en exclusividad con la sede electrónica.
